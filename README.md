@@ -17,6 +17,8 @@
 - Python
 - Kotlin
 - Javascript
+  - [1 Hour JavaScript](https://www.udemy.com/1-hour-javascript/learn/v4/overview) - Udemy.com
+  - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/learn/v4/overview) - Udemy.com
 - Shell
 
 ## Frameworks
@@ -39,7 +41,14 @@
   - Concourse.ci
   - Jenkins
 - Security
+  - [The Complete Ethical Hacking Course: Beginner to Advanced!](https://www.udemy.com/penetration-testing/learn/v4/overview) - Udemy.com
+  - OAuth
+    - [Learn OAuth 2.0 - Get started as an API Security Expert](https://www.udemy.com/learn-oauth-2/learn/v4/overview) - Udemy.com
   - Okta
+  
+## Misc
+- AI and ML
+  - [Artificial Intelligence I: Basics and Games in Java](https://www.udemy.com/artificial-intelligence-games-in-java/learn/v4/overview) - Udemy.com
 
 ## Conferences and User Groups
 - [Central Ohio Java Users Group(COJUG)](http://cojug.org)
