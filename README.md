@@ -25,7 +25,7 @@
   - [Spring Tutorials (Beginners)](https://www.udemy.com/draft/253036/learn/v4/overview) - Udemy.com
   - [Spring Tutorials - Spring Core](https://www.udemy.com/springcore2/learn/v4/overview) - Udemy.com
 - SpringBoot
-  -[Learn Spring Boot - Rapid Spring Application Development](https://www.udemy.com/spring-boot-intro/learn/v4/overview) - Udemy.com
+  - [Learn Spring Boot - Rapid Spring Application Development](https://www.udemy.com/spring-boot-intro/learn/v4/overview) - Udemy.com
 - Spring Cloud
 - Angular
   - [Learn Angular 2 Development By Building 12 Apps](https://www.eduonix.com/dashboard/learn-angular-2-development-by-building-10-apps) - Eduonix.org
