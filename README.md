@@ -3,7 +3,10 @@
 # Platforms
 
 ## AWS
+- [Certified Solutions Architect - Associate 2017](https://acloud.guru/course/aws-certified-solutions-architect-associate/dashboard) - Acloud.guru
 - Cloud Formation
+  - [ntroduction to AWS CloudFormation](https://acloud.guru/course/aws-cloudformation/dashboard) - Acloud.guru
+  - [Advanced AWS CloudFormation](https://acloud.guru/course/aws-advanced-cloudformation/dashboard) - Acloud.guru
 
 ## Google
 
