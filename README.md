@@ -24,6 +24,8 @@
 - Javascript
   - [1 Hour JavaScript](https://www.udemy.com/1-hour-javascript/learn/v4/overview) - Udemy.com
   - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/learn/v4/overview) - Udemy.com
+  - [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/learn/v4/overview) - Udemy.com
+  - []() - Udemy.com
 - Shell
 
 ## Frameworks
@@ -31,6 +33,7 @@
 - Spring
   - [Spring Tutorials (Beginners)](https://www.udemy.com/draft/253036/learn/v4/overview) - Udemy.com
   - [Spring Tutorials - Spring Core](https://www.udemy.com/springcore2/learn/v4/overview) - Udemy.com
+  - [Spring Framework Tutorial: Practical, Rapid, Intuitive](https://www.udemy.com/spring-framework-4/learn/v4/overview) - Udemy.com
 - SpringBoot
   - [Learn Spring Boot - Rapid Spring Application Development](https://www.udemy.com/spring-boot-intro/learn/v4/overview) - Udemy.com
 - Spring Cloud
@@ -38,6 +41,12 @@
   - [Learn Angular 2 Development By Building 12 Apps](https://www.eduonix.com/dashboard/learn-angular-2-development-by-building-10-apps) - Eduonix.org
   - [Angular 5 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview) - Udemy.com
   - [Popular JavaScript Framework:Learn The Language Of Angular 2](https://www.udemy.com/popular-javascript-frameworklearn-the-language-of-angular-2/learn/v4/content) Udemy.com
+  - [Welcome to AngularJS JumpStart with Dan Wahlin](https://www.udemy.com/angularjs-jumpstart/learn/v4/overview) - Udemy.com
+  - [Learn and Understand AngularJS](https://www.udemy.com/learn-angularjs/learn/v4/overview) - Udemy.com
+ 
+ - Front Ends
+  - [Learn Bootstrap By Building Projects - Includes Bootstrap 4](https://www.udemy.com/learn-bootstrap-development-by-building-10-projects/learn/v4/overview) - Udemy.com
+  - [Programming Foundations: HTML5 + CSS3 for Entrepreneurs 2015](https://www.udemy.com/html-css-more/learn/v4/overview) - Udemy.com
 
 ## Tools
 - Cloud Foundry
