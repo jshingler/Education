@@ -43,7 +43,7 @@
   - [Popular JavaScript Framework:Learn The Language Of Angular 2](https://www.udemy.com/popular-javascript-frameworklearn-the-language-of-angular-2/learn/v4/content) Udemy.com
   - [Welcome to AngularJS JumpStart with Dan Wahlin](https://www.udemy.com/angularjs-jumpstart/learn/v4/overview) - Udemy.com
   - [Learn and Understand AngularJS](https://www.udemy.com/learn-angularjs/learn/v4/overview) - Udemy.com
- - Front Ends
+- Front Ends
   - [Learn Bootstrap By Building Projects - Includes Bootstrap 4](https://www.udemy.com/learn-bootstrap-development-by-building-10-projects/learn/v4/overview) - Udemy.com
   - [Programming Foundations: HTML5 + CSS3 for Entrepreneurs 2015](https://www.udemy.com/html-css-more/learn/v4/overview) - Udemy.com
 
