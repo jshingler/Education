@@ -15,6 +15,8 @@
 - Groovy
   - [The Complete Apache Groovy Developer Course](https://www.udemy.com/apache-groovy/learn/v4/overview) Udemy.com
 - Python
+  - [Python Path](https://app.pluralsight.com/paths/skills/python) - PluralSight.com
+  - [Continue Machine Learning for Trading?](https://classroom.udacity.com/courses/ud501) - Udacity.com
 - Kotlin
 - Javascript
   - [1 Hour JavaScript](https://www.udemy.com/1-hour-javascript/learn/v4/overview) - Udemy.com
@@ -38,6 +40,8 @@
 - Cloud Foundry
   - FREE (edx.org) [Introduction to Cloud Foundry and Cloud Native Software Architecture](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS132x+1T2017/course/)
 - CI / CD
+  - [DevOps: The Big Picture](https://app.pluralsight.com/library/courses/devops-big-picture/table-of-contents) - PluralSight.com
+  - [Implementing DevOps in the Real World](https://app.pluralsight.com/library/courses/implementing-devops-real-world/table-of-contents) - PluralSight.com
   - Concourse.ci
   - Jenkins
 - Security
@@ -49,6 +53,9 @@
 ## Misc
 - AI and ML
   - [Artificial Intelligence I: Basics and Games in Java](https://www.udemy.com/artificial-intelligence-games-in-java/learn/v4/overview) - Udemy.com
+  - [Understanding Machine Learning](https://app.pluralsight.com/library/courses/understanding-machine-learning/table-of-contents) - PluralSight.com
+  - [TensorFlow: Getting Started](https://app.pluralsight.com/library/courses/tensorflow-getting-started/table-of-contents) - PluralSight
+  - [Continue Machine Learning for Trading?](https://classroom.udacity.com/courses/ud501) - Udacity.com
 
 ## Conferences and User Groups
 - [Central Ohio Java Users Group(COJUG)](http://cojug.org)
