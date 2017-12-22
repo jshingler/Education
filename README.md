@@ -19,7 +19,7 @@
   - [The Complete Apache Groovy Developer Course](https://www.udemy.com/apache-groovy/learn/v4/overview) Udemy.com
 - Python
   - [Python Path](https://app.pluralsight.com/paths/skills/python) - PluralSight.com
-  - [Continue Machine Learning for Trading?](https://classroom.udacity.com/courses/ud501) - Udacity.com
+  - [Machine Learning for Trading?](https://classroom.udacity.com/courses/ud501) - Udacity.com
 - Kotlin
 - Javascript
   - [1 Hour JavaScript](https://www.udemy.com/1-hour-javascript/learn/v4/overview) - Udemy.com
