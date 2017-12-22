@@ -66,7 +66,7 @@
   - [Artificial Intelligence I: Basics and Games in Java](https://www.udemy.com/artificial-intelligence-games-in-java/learn/v4/overview) - Udemy.com
   - [Understanding Machine Learning](https://app.pluralsight.com/library/courses/understanding-machine-learning/table-of-contents) - PluralSight.com
   - [TensorFlow: Getting Started](https://app.pluralsight.com/library/courses/tensorflow-getting-started/table-of-contents) - PluralSight
-  - [Continue Machine Learning for Trading?](https://classroom.udacity.com/courses/ud501) - Udacity.com
+  - [Machine Learning for Trading?](https://classroom.udacity.com/courses/ud501) - Udacity.com
 
 ## Conferences and User Groups
 - [Central Ohio Java Users Group(COJUG)](http://cojug.org)
