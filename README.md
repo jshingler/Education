@@ -37,6 +37,8 @@
 - SpringBoot
   - [Learn Spring Boot - Rapid Spring Application Development](https://www.udemy.com/spring-boot-intro/learn/v4/overview) - Udemy.com
 - Spring Cloud
+- Spring Security
+  - https://courses.baeldung.com/courses/enrolled
 - Angular
   - [Learn Angular 2 Development By Building 12 Apps](https://www.eduonix.com/dashboard/learn-angular-2-development-by-building-10-apps) - Eduonix.org
   - [Angular 5 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview) - Udemy.com
